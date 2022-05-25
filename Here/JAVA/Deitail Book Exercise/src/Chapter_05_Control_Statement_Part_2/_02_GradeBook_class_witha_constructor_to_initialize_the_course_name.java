@@ -1,3 +1,5 @@
+package Chapter_05_Control_Statement_Part_2;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -8,7 +10,7 @@
  *
  * @author Md Shishir Bhuiyan
  */
-public class _09_GradeBook_class_witha_constructor_to_initialize_the_course_name { 
+public class _02_GradeBook_class_witha_constructor_to_initialize_the_course_name { 
     public static void main(String[] args) {
         // create GradeBook object 
         GradeBook gradeBook1 = new GradeBook( "CS101 Introduction to Java Programming", "Sam Smith" ); gradeBook1.displayMessage(); // display welcome message
